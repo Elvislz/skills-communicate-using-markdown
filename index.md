@@ -68,7 +68,10 @@ except KeyboardInterrupt:
     client.disconnect()
     print("Desconectado.")
  ```   
-
+## Lista de tareas
+- [ ] Primer item, marcalo si leiste todo.
+- [ ] Comprendiste todo.
+- [ ] Replicaste todo.
 
 
 
@@ -76,5 +79,6 @@ except KeyboardInterrupt:
 
 
 Rellené con texto en codigo markdown
+
 
 
